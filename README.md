@@ -24,3 +24,12 @@ Finally set replica using
     ]
   }
 )
+
+
+
+**MySql Replication**
+
+MySQL InnoDB cluster provides a complete high availability solution for MySQL. MySQL Shell includes AdminAPI which enables you to easily configure and administer a group of at least three MySQL server instances to function as an InnoDB cluster. Each MySQL server instance runs MySQL Group Replication, which provides the mechanism to replicate data within InnoDB clusters, with built-in failover.
+
+![1_tVjbEGafBiYEfqfAgf0DYQ](https://github.com/user-attachments/assets/4aa93b30-6aa3-472b-9857-565f026a7f21)
+
